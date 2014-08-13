@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\projects\delphi\OraTau pl_plugin\source\uframeScript.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\projects\delphi\OraTau pl_plugin\source\uframeScript.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40287.001412037</prop>
+        <prop prop-type="OrigDateTime">40286.1931018519</prop>
+        <prop prop-type="XlatDateTime">40286.1931018519</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">134</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frameScript.Left" resname="O:frameScript.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TframeScript</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.Top" resname="O:frameScript.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TframeScript</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.Width" resname="O:frameScript.Width">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TframeScript</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.Height" resname="O:frameScript.Height">
+        <source>520</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TframeScript</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.TabOrder" resname="O:frameScript.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TframeScript</prop><prop prop-type="Localize">0</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.Left" resname="O:frameScript.O:gbSettings.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.Top" resname="O:frameScript.O:gbSettings.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.Align" resname="O:frameScript.O:gbSettings.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.Caption" resname="O:frameScript.O:gbSettings.Caption">
+        <source>'Script settings'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.TabOrder" resname="O:frameScript.O:gbSettings.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.DesignSize[0]" resname="O:frameScript.O:gbSettings.DesignSize[0]">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.DesignSize[1]" resname="O:frameScript.O:gbSettings.DesignSize[1]">
+        <source>520</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.Height" resname="O:frameScript.O:gbSettings.Height">
+        <source>520</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.Width" resname="O:frameScript.O:gbSettings.Width">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:lblScriptFile.Left" resname="O:frameScript.O:gbSettings.O:lblScriptFile.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:lblScriptFile.Top" resname="O:frameScript.O:gbSettings.O:lblScriptFile.Top">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:lblScriptFile.Caption" resname="O:frameScript.O:gbSettings.O:lblScriptFile.Caption">
+        <source>'Script file:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Left" resname="O:frameScript.O:gbSettings.O:btnExecute.Left">
+        <source>586</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Top" resname="O:frameScript.O:gbSettings.O:btnExecute.Top">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Width" resname="O:frameScript.O:gbSettings.O:btnExecute.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Height" resname="O:frameScript.O:gbSettings.O:btnExecute.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Anchors" resname="O:frameScript.O:gbSettings.O:btnExecute.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Caption" resname="O:frameScript.O:gbSettings.O:btnExecute.Caption">
+        <source>'Execute'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.TabOrder" resname="O:frameScript.O:gbSettings.O:btnExecute.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.OnClick" resname="O:frameScript.O:gbSettings.O:btnExecute.OnClick">
+        <source>btnExecuteClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014231944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.Glyph.Data" resname="O:frameScript.O:gbSettings.O:btnExecute.Glyph.Data">
+        <source>36030000424D36030000000000003600000028000000100000001000000001001800000000000003000000000000000000000000000000000000A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A1A292A3A599A6ABA2A6ABA3A3A79BA1A292A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A89B8E97A354608E101F67052776063588073E96073E9B4F70AAA6AEA4A5A695A5A695A5A695A5A695A5A695A2A7A3616A9306054D02044D030B54041263041972041E7D041E86031B8B0314927493BDA3A493A5A695A5A695A7AAA268709503014A020049020049020265080C8E101CA20C1AA5020C980207860204880201A7759AC9A5A695A4A594949BA326296B02004902026C2A3AB51425B0071EB10524B6062FBD0B3DC5104CCC0843C80206AA020EC9A4A696A5A6968A92A10200490B0E831019AA020FAA021AB10224B8032FBE0439C40544CB074FD2095AD80661DC0220CBA0B6B8A5A695959DA402005B0B16AA0213AC021DB3085ECE83BBD4B8C6D095B2D21554CA0B5FDA116CDF1A7BE40876E783A6B2A5A695A7AAA0111FA40217AF0221B542A2DBCBCBCB6AB1DA2478D66094D5E6E6E68895D01C7FE6298FEC2D98F083A9B3A5A695A5A6950C26B40225B8032FBFCFCFCF0E6ED7074FD2095AD80D67DD126BDBF8F8F8267DE041A5F25DB8F683AAB5A5A695A5A695072BB60332C1043EC7DADADA0753D4095EDAEEEEEE1472DF2187EAFFFFFF367EDA66BEF78DD2FA94A097A5A695A5A695666C780441C9054BD08DAEDA85ADDE106FE189A9DF7D99DA446CCBE7E7F56EC3F89AD8FB80CFFCA5A695A5A695A5A695A5A695144BB8085AD80B66DD4E7FD3F9FAFC1F78DEFEFEFE4CA5EE76C6F8A6DDFCCEEEFE879084A5A695A5A695A5A695A5A695A5A695375D961477E41D85EA2A95EF3EA5F3ACACDC69A5E5B3E3FCA1DCFD919587A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695576C832C7ED540A4F151ACF0518AB2848B82A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695A5A695</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.LookAndFeel.Kind" resname="O:frameScript.O:gbSettings.O:btnExecute.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnExecute.LookAndFeel.NativeStyle" resname="O:frameScript.O:gbSettings.O:btnExecute.LookAndFeel.NativeStyle">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.Left" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.Left">
+        <source>529</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.Top" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.Top">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.Caption" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.Caption">
+        <source>'compile invalid objects'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.Enabled" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.TabOrder" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.Visible" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkCompileInvalid.Width" resname="O:frameScript.O:gbSettings.O:chkCompileInvalid.Width">
+        <source>138</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.Left" resname="O:frameScript.O:gbSettings.O:chkStopOnError.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.Top" resname="O:frameScript.O:gbSettings.O:chkStopOnError.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.Caption" resname="O:frameScript.O:gbSettings.O:chkStopOnError.Caption">
+        <source>'stop on error'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.Properties.ImmediatePost" resname="O:frameScript.O:gbSettings.O:chkStopOnError.Properties.ImmediatePost">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.State" resname="O:frameScript.O:gbSettings.O:chkStopOnError.State">
+        <source>cbsChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.TabOrder" resname="O:frameScript.O:gbSettings.O:chkStopOnError.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkStopOnError.Width" resname="O:frameScript.O:gbSettings.O:chkStopOnError.Width">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.Left" resname="O:frameScript.O:gbSettings.O:btnClearLog.Left">
+        <source>86</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.Top" resname="O:frameScript.O:gbSettings.O:btnClearLog.Top">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.Width" resname="O:frameScript.O:gbSettings.O:btnClearLog.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.Height" resname="O:frameScript.O:gbSettings.O:btnClearLog.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.Caption" resname="O:frameScript.O:gbSettings.O:btnClearLog.Caption">
+        <source>'Clear log'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.TabOrder" resname="O:frameScript.O:gbSettings.O:btnClearLog.TabOrder">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.OnClick" resname="O:frameScript.O:gbSettings.O:btnClearLog.OnClick">
+        <source>btnClearLogClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.Glyph.Data" resname="O:frameScript.O:gbSettings.O:btnClearLog.Glyph.Data">
+        <source>36050000424D360500000000000036040000280000001000000010000000010008000000000000010000120B0000120B0000000100000000000000000000FFFFFF00FF00FF000086000000830000007B0000005E0000005C000000580000005400000182020000650100005D010004880700068C0900048A0B00035A060007960D0006630900046D0A00068E0F000CA015000C9D150008690E000B891300096D110011AA1D000D8217000E78180001500A001CB62F0013872300179928001890290021C239001C9A31001C982F0036E554002AD149002BCE49002CD44D000E912D0035E05D0025AC460047F779001DA657000B63440012805B002D919700185F69003EABEE0045B4F70048B7FA00196DA3003DAAF400258BD80039A4F4003BA7F80040ACFE0041ADFA00025291000354950004579A00065B9F00197ACC001F81D4002581CE00319CF700359EF2003CA6FF000458A000065BAA00075CA9000962B4001676CA001E80D500268BE5002687DD002889E3002C8FEB002D95EF0038A1FF0038A3FF000C67C4000B64BB000F69BF002184E300278CEB000F6AC900126ED300116CCF001B6DC4002380E100136FDC001160C0001573E7001574E0001776E6001877EA00166AD40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002020202020202626002020202020202020202020202615F5D5958020202020202020202024A4C57565A53544948020202020202023732334D364B5547463E3D020202021D43385B344D3B3941403F3C0202022E311D63425E4E3A44454550020202122B1E1E1E1D1D355C4F525102020219232C251E292F1E1E1D1D020202020224212A22150304142D300202020202020210201A0A050F0C0C02020202020202021F260D070C130202020202020202021C280E090202020202020202020202172711080202020202020202020202021B160602020202020202020202020202180B020202020202020202020202020202020202020202020202020202020202</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.LookAndFeel.Kind" resname="O:frameScript.O:gbSettings.O:btnClearLog.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:btnClearLog.LookAndFeel.NativeStyle" resname="O:frameScript.O:gbSettings.O:btnClearLog.LookAndFeel.NativeStyle">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:lblMessageLog.Left" resname="O:frameScript.O:gbSettings.O:lblMessageLog.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:lblMessageLog.Top" resname="O:frameScript.O:gbSettings.O:lblMessageLog.Top">
+        <source>83</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:lblMessageLog.Caption" resname="O:frameScript.O:gbSettings.O:lblMessageLog.Caption">
+        <source>'Message log'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.AlignWithMargins" resname="O:frameScript.O:gbSettings.O:meMessageLog.AlignWithMargins">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Left" resname="O:frameScript.O:gbSettings.O:meMessageLog.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Top" resname="O:frameScript.O:gbSettings.O:meMessageLog.Top">
+        <source>109</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Align" resname="O:frameScript.O:gbSettings.O:meMessageLog.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Anchors" resname="O:frameScript.O:gbSettings.O:meMessageLog.Anchors">
+        <source>[akLeft, akTop, akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Properties.ScrollBars" resname="O:frameScript.O:gbSettings.O:meMessageLog.Properties.ScrollBars">
+        <source>ssBoth</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.TabOrder" resname="O:frameScript.O:gbSettings.O:meMessageLog.TabOrder">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Height" resname="O:frameScript.O:gbSettings.O:meMessageLog.Height">
+        <source>406</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:meMessageLog.Width" resname="O:frameScript.O:gbSettings.O:meMessageLog.Width">
+        <source>678</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TcxMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Left" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Left">
+        <source>601</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Top" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Hint" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Hint">
+        <source>'Load file into app or execute on server as is'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Caption" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Caption">
+        <source>'load file'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Properties.ImmediatePost" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Properties.ImmediatePost">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.TabOrder" resname="O:frameScript.O:gbSettings.O:chkLoadFile.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Visible" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkLoadFile.Width" resname="O:frameScript.O:gbSettings.O:chkLoadFile.Width">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.Left" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.Left">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.Top" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.Top">
+        <source>79</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.Hint" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.Hint">
+        <source>'autoclear log before execute'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.Caption" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.Caption">
+        <source>'autoclear log before execute'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.Properties.ImmediatePost" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.Properties.ImmediatePost">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.TabOrder" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.TabOrder">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkAutoClearLog.Width" resname="O:frameScript.O:gbSettings.O:chkAutoClearLog.Width">
+        <source>173</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Left" resname="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Left">
+        <source>106</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Top" resname="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Caption" resname="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Caption">
+        <source>'unset schema on success execute'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Properties.ImmediatePost" resname="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Properties.ImmediatePost">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.TabOrder" resname="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Width" resname="O:frameScript.O:gbSettings.O:chkUnSetSchemaOnSuccess.Width">
+        <source>192</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Left" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Left">
+        <source>304</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Top" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Hint" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Hint">
+        <source>'Execute script in PL/SQL Developer Command Window'#13#10'!!! Schema is not set in this mode. Only Username'#13#10'PL/SQL Developer 7.1.4+'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Caption" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Caption">
+        <source>'execute in PL/SQL Developer Command Window'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.ParentFont" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Properties.ImmediatePost" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Properties.ImmediatePost">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Charset" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Color" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Color">
+        <source>clRed</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Height" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Name" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Style" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.IsFontAssigned" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Style.IsFontAssigned">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.TabOrder" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Width" resname="O:frameScript.O:gbSettings.O:chkExecuteInPLDev.Width">
+        <source>254</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Left" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Left">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Top" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Anchors" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Anchors">
+        <source>[akLeft, akTop, akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.ParentShowHint" resname="O:frameScript.O:gbSettings.O:mruScriptFile.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ButtonGlyph.Data" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ButtonGlyph.Data">
+        <source>36040000424D36040000000000003600000028000000100000001000000001002000000000000004000000000000000000000000000000000000FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF0029ADD60031B5DE0021ADD600FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF0029ADD6009CDEEF0084EFFF004AC6E70021ADD60018A5C60018A5C60018A5C600FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF0029ADD60052BDE7009CFFFF0094FFFF0073DEF70073DEF70073DEF70073DEF7004AC6E70021ADD60018A5C600FF00FF00FF00FF00FF00FF00FF00FF00FF00FF0029ADD60052BDE700ADFFFF008CF7FF008CEFFF008CEFFF008CEFFF0073DEF70073DEF70073DEF7004AC6EF0021ADD600FF00FF00FF00FF00FF00FF00FF00FF0029ADD60029ADD600ADDEEF0094F7FF0094F7FF008CEFFF008CEFFF008CEFFF008CEFFF0073DEF70073DEF7004AC6EF00FF00FF00FF00FF00FF00FF00FF00FF0029ADD60073DEF70029ADD6009CFFFF008CF7FF008CF7FF008CF7FF008CEFFF008CEFFF008CEFFF0073DEF70073DEF70018A5C600FF00FF00FF00FF00FF00FF0029ADD60094F7FF0029ADD600ADDEEF00A5EFF700A5EFF700A5F7FF008CEFFF008CEFFF008CEFFF0073DEF70073DEF70039BDE700FF00FF00FF00FF00FF00FF0029ADD6009CFFFF0073DEF70029ADD60018A5C60018A5C60018A5C600ADDEEF008CF7FF0084EFFF0084EFFF0073DEF70073DEF70018A5C600FF00FF00FF00FF0029ADD6009CFFFF0094F7FF0073DEF70073DEF70073DEF7006BDEF70029ADD600ADDEEF0084EFFF0084EFFF0084EFFF0094EFFF0031A5D600FF00FF00FF00FF0029ADD6009CFFFF0094F7FF0094F7FF0094F7FF0094F7FF0073DEF70073DEF70029ADD60018A5C60029A5D60029A5D60029A5D60018A5C600FF00FF00FF00FF0029ADD600C6FFFF0094FFFF009CFFFF00D6FFFF00D6FFFF008CEFFF0094EFFF0073DEF70073DEF70018ADDE00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF0021ADD6009CDEEF00C6FFFF00C6FFFF009CDEEF0018ADD60018A5C60018A5C60018A5C60018A5C60018A5CE00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF0031B5DE0029ADD60018A5C60018A5C600FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00FF00</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ClearKey" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ClearKey">
+        <source>46</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.DropDownRows" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.DropDownRows">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.DropDownSizeable" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.DropDownSizeable">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ImmediatePost" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ImmediatePost">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ImmediateUpdateText" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.ImmediateUpdateText">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.MaxItemCount" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.MaxItemCount">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.OnButtonClick" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.OnButtonClick">
+        <source>mruScriptFilePropertiesButtonClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001423287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.OnEditValueChanged" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Properties.OnEditValueChanged">
+        <source>mruScriptFilePropertiesEditValueChanged</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.ShowHint" resname="O:frameScript.O:gbSettings.O:mruScriptFile.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.TabOrder" resname="O:frameScript.O:gbSettings.O:mruScriptFile.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.OnDblClick" resname="O:frameScript.O:gbSettings.O:mruScriptFile.OnDblClick">
+        <source>mruScriptFileDblClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:gbSettings.O:mruScriptFile.Width" resname="O:frameScript.O:gbSettings.O:mruScriptFile.Width">
+        <source>480</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TcxMRUEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:odScriptFile.Filter" resname="O:frameScript.O:odScriptFile.Filter">
+        <source>'*.*|*.*|*.sql|*.sql|*.pdc|*.pdc|*.pdc, *.sql|*.pdc; *.sql'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TOpenDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:odScriptFile.FilterIndex" resname="O:frameScript.O:odScriptFile.FilterIndex">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TOpenDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:odScriptFile.Options" resname="O:frameScript.O:odScriptFile.Options">
+        <source>[ofHideReadOnly, ofPathMustExist, ofFileMustExist, ofEnableSizing]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TOpenDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:odScriptFile.Title" resname="O:frameScript.O:odScriptFile.Title">
+        <source>'Select a script file to execute'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TOpenDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:odScriptFile.Left" resname="O:frameScript.O:odScriptFile.Left">
+        <source>408</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TOpenDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:odScriptFile.Top" resname="O:frameScript.O:odScriptFile.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014232986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TOpenDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.Active" resname="O:frameScript.O:fsScript.Active">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.AppStorage" resname="O:frameScript.O:fsScript.AppStorage">
+        <source>dmData.aifsMain</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.AppStoragePath" resname="O:frameScript.O:fsScript.AppStoragePath">
+        <source>'framScript\'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.Options" resname="O:frameScript.O:fsScript.Options">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.Version" resname="O:frameScript.O:fsScript.Version">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.StoredProps.Strings[0]" resname="O:frameScript.O:fsScript.StoredProps.Strings[0]">
+        <source>'chkAutoClearLog.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.StoredProps.Strings[1]" resname="O:frameScript.O:fsScript.StoredProps.Strings[1]">
+        <source>'chkStopOnError.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.StoredProps.Strings[2]" resname="O:frameScript.O:fsScript.StoredProps.Strings[2]">
+        <source>'chkUnSetSchemaOnSuccess.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.StoredProps.Strings[3]" resname="O:frameScript.O:fsScript.StoredProps.Strings[3]">
+        <source>'chkExecuteInPLDev.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.StoredProps.Strings[4]" resname="O:frameScript.O:fsScript.StoredProps.Strings[4]">
+        <source>'mruScriptFile.Properties'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.StoredValues" resname="O:frameScript.O:fsScript.StoredValues">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.Left" resname="O:frameScript.O:fsScript.Left">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frameScript.O:fsScript.Top" resname="O:frameScript.O:fsScript.Top">
+        <source>132</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014233333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

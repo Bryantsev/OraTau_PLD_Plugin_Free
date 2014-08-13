@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2010.01.05 00:30:33.335.groupproj,C:\Users\admin\Documents\RAD Studio\Projects\ProjectGroup1.groupproj=D:\projects\delphi\OraTau pl_plugin\source\OraTauGroup.groupproj</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="OraTau.dll"/>
+  </Default.Personality>
+</BorlandProject>

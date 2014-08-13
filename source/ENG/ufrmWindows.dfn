@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\projects\delphi\OraTau pl_plugin\source\ufrmWindows.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\projects\delphi\OraTau pl_plugin\source\ufrmWindows.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40287.0014583333</prop>
+        <prop prop-type="OrigDateTime">40286.1546296296</prop>
+        <prop prop-type="XlatDateTime">40286.1546296296</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">77</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmWindows.Left" resname="O:frmWindows.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Top" resname="O:frmWindows.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.BorderIcons" resname="O:frmWindows.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Caption" resname="O:frmWindows.Caption">
+        <source>'Windows'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.ClientHeight" resname="O:frmWindows.ClientHeight">
+        <source>484</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.ClientWidth" resname="O:frmWindows.ClientWidth">
+        <source>572</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Color" resname="O:frmWindows.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Font.Charset" resname="O:frmWindows.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Font.Color" resname="O:frmWindows.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Font.Height" resname="O:frmWindows.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Font.Name" resname="O:frmWindows.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Font.Style" resname="O:frmWindows.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.FormStyle" resname="O:frmWindows.FormStyle">
+        <source>fsStayOnTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.OldCreateOrder" resname="O:frmWindows.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.Position" resname="O:frmWindows.Position">
+        <source>poScreenCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.PixelsPerInch" resname="O:frmWindows.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.TextHeight" resname="O:frmWindows.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmWindows</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.Left" resname="O:frmWindows.O:grdWindows.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.Top" resname="O:frmWindows.O:grdWindows.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.Width" resname="O:frmWindows.O:grdWindows.Width">
+        <source>572</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.Height" resname="O:frmWindows.O:grdWindows.Height">
+        <source>484</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.Align" resname="O:frmWindows.O:grdWindows.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014612963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.TabOrder" resname="O:frmWindows.O:grdWindows.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.ExplicitWidth" resname="O:frmWindows.O:grdWindows.ExplicitWidth">
+        <source>259</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.NavigatorButtons.ConfirmDelete" resname="O:frmWindows.O:grdWindows.O:tvWindows.NavigatorButtons.ConfirmDelete">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.DataController.DataSource" resname="O:frmWindows.O:grdWindows.O:tvWindows.DataController.DataSource">
+        <source>dmData.dsWindow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.DataController.KeyFieldNames" resname="O:frmWindows.O:grdWindows.O:tvWindows.DataController.KeyFieldNames">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Options" resname="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Options">
+        <source>[dcoAnsiSort, dcoCaseInsensitive, dcoAssignGroupingValues, dcoAssignMasterDetailKeys, dcoSaveExpanding, dcoSortByDisplayText, dcoImmediatePost]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Summary.DefaultGroupSummaryItems" resname="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Summary.DefaultGroupSummaryItems">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Summary.FooterSummaryItems" resname="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Summary.FooterSummaryItems">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Summary.SummaryGroups" resname="O:frmWindows.O:grdWindows.O:tvWindows.DataController.Summary.SummaryGroups">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsBehavior.CellHints" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsBehavior.CellHints">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsBehavior.ImmediateEditor" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsBehavior.ImmediateEditor">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsData.Deleting" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsData.Deleting">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsData.DeletingConfirmation" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsData.DeletingConfirmation">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsData.Inserting" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsData.Inserting">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsView.Indicator" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsView.Indicator">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.OptionsView.IndicatorWidth" resname="O:frmWindows.O:grdWindows.O:tvWindows.OptionsView.IndicatorWidth">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.DataBinding.FieldName">
+        <source>'RecId'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.Visible" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.HeaderAlignmentHorz" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.HeaderAlignmentVert" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsRecId.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.DataBinding.FieldName">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.Visible" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.HeaderAlignmentHorz" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.HeaderAlignmentVert" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.VisibleForCustomization" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsID.VisibleForCustomization">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.DataBinding.FieldName">
+        <source>'IDGroup'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.Visible" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001461331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.GroupIndex" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.GroupIndex">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.HeaderAlignmentHorz" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.HeaderAlignmentVert" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.Width" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDGroup.Width">
+        <source>52</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.DataBinding.FieldName">
+        <source>'Check'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.HeaderAlignmentHorz" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.HeaderAlignmentVert" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.Width" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsCheck.Width">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.DataBinding.FieldName">
+        <source>'Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.HeaderAlignmentHorz" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.HeaderAlignmentVert" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.Options.Filtering" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.Options.Filtering">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.Width" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsName.Width">
+        <source>143</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeScheme.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeScheme.DataBinding.FieldName">
+        <source>'IDTypeScheme'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeScheme.Visible" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeScheme.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeScheme.GroupIndex" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeScheme.GroupIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeWindow.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDTypeWindow.DataBinding.FieldName">
+        <source>'IDTypeWindow'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.DataBinding.FieldName">
+        <source>'Filename'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.HeaderAlignmentHorz" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.HeaderAlignmentVert" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.Width" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsFilename.Width">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDPLDev.DataBinding.FieldName" resname="O:frmWindows.O:grdWindows.O:tvWindows.O:clmWindowsIDPLDev.DataBinding.FieldName">
+        <source>'IDPLDev'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:grdWindows.O:lvlWindows.GridView" resname="O:frmWindows.O:grdWindows.O:lvlWindows.GridView">
+        <source>tvWindows</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TcxGridLevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:fsWindows.AppStorage" resname="O:frmWindows.O:fsWindows.AppStorage">
+        <source>dmData.aifsMain</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:fsWindows.AppStoragePath" resname="O:frmWindows.O:fsWindows.AppStoragePath">
+        <source>'frmWindows\'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:fsWindows.StoredValues" resname="O:frmWindows.O:fsWindows.StoredValues">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:fsWindows.Left" resname="O:frmWindows.O:fsWindows.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmWindows.O:fsWindows.Top" resname="O:frmWindows.O:fsWindows.Top">
+        <source>108</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014613773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

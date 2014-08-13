@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\projects\delphi\OraTau pl_plugin\source\ufrmSchemaTypes.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\projects\delphi\OraTau pl_plugin\source\ufrmSchemaTypes.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40287.0014351852</prop>
+        <prop prop-type="OrigDateTime">40286.1546296296</prop>
+        <prop prop-type="XlatDateTime">40286.1546296296</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">74</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmSchemaTypes.Left" resname="O:frmSchemaTypes.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Top" resname="O:frmSchemaTypes.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.BorderIcons" resname="O:frmSchemaTypes.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.BorderStyle" resname="O:frmSchemaTypes.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Caption" resname="O:frmSchemaTypes.Caption">
+        <source>'Schema Types'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.ClientHeight" resname="O:frmSchemaTypes.ClientHeight">
+        <source>290</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.ClientWidth" resname="O:frmSchemaTypes.ClientWidth">
+        <source>277</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Color" resname="O:frmSchemaTypes.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Font.Charset" resname="O:frmSchemaTypes.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Font.Color" resname="O:frmSchemaTypes.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Font.Height" resname="O:frmSchemaTypes.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Font.Name" resname="O:frmSchemaTypes.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Font.Style" resname="O:frmSchemaTypes.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.OldCreateOrder" resname="O:frmSchemaTypes.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.Position" resname="O:frmSchemaTypes.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.OnClose" resname="O:frmSchemaTypes.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.PixelsPerInch" resname="O:frmSchemaTypes.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.TextHeight" resname="O:frmSchemaTypes.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmSchemaTypes</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.Left" resname="O:frmSchemaTypes.O:grdSchemaTypes.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.Top" resname="O:frmSchemaTypes.O:grdSchemaTypes.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.Width" resname="O:frmSchemaTypes.O:grdSchemaTypes.Width">
+        <source>277</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.Height" resname="O:frmSchemaTypes.O:grdSchemaTypes.Height">
+        <source>241</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.Align" resname="O:frmSchemaTypes.O:grdSchemaTypes.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.Anchors" resname="O:frmSchemaTypes.O:grdSchemaTypes.Anchors">
+        <source>[akLeft, akTop, akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014563889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.TabOrder" resname="O:frmSchemaTypes.O:grdSchemaTypes.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TcxGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.ConfirmDelete" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.ConfirmDelete">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.PriorPage.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.PriorPage.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Prior.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Prior.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Next.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Next.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.NextPage.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.NextPage.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Last.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Last.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Append.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Append.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.SaveBookmark.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.SaveBookmark.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.GotoBookmark.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.GotoBookmark.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Filter.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.NavigatorButtons.Filter.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.DataSource" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.DataSource">
+        <source>dmData.dsSchemaType</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.KeyFieldNames" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.KeyFieldNames">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Options" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Options">
+        <source>[dcoAnsiSort, dcoCaseInsensitive, dcoAssignGroupingValues, dcoAssignMasterDetailKeys, dcoSaveExpanding]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.DefaultGroupSummaryItems" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.DefaultGroupSummaryItems">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.FooterSummaryItems[0].Format" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.FooterSummaryItems[0].Format">
+        <source>'Count: 0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">C:TcxGridDBTableView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.FooterSummaryItems[0].Kind" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.FooterSummaryItems[0].Kind">
+        <source>skCount</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">C:TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.FooterSummaryItems[0].Column" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.FooterSummaryItems[0].Column">
+        <source>clmSchemaGroupsName</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001456412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">C:TcxGridDBTableView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.SummaryGroups" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.DataController.Summary.SummaryGroups">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsBehavior.CellHints" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsBehavior.CellHints">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsBehavior.ImmediateEditor" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsBehavior.ImmediateEditor">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsBehavior.NavigatorHints" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsBehavior.NavigatorHints">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.Navigator" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.Navigator">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.ColumnAutoWidth" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.ColumnAutoWidth">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.Footer" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.Footer">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.GroupByBox" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.GroupByBox">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.Indicator" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.Indicator">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.IndicatorWidth" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.OptionsView.IndicatorWidth">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TcxGridDBTableView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsRecId.DataBinding.FieldName" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsRecId.DataBinding.FieldName">
+        <source>'RecId'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsRecId.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsRecId.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsID.DataBinding.FieldName" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsID.DataBinding.FieldName">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsID.Visible" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsID.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsID.VisibleForCustomization" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsID.VisibleForCustomization">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.DataBinding.FieldName" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.DataBinding.FieldName">
+        <source>'Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.FooterAlignmentHorz" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.FooterAlignmentHorz">
+        <source>taRightJustify</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.HeaderAlignmentHorz" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.HeaderAlignmentHorz">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.HeaderAlignmentVert" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.HeaderAlignmentVert">
+        <source>vaCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.SortIndex" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.SortIndex">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.SortOrder" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.SortOrder">
+        <source>soAscending</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.Width" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:tvSchemaTypes.O:clmSchemaGroupsName.Width">
+        <source>222</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TcxGridDBColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:grdSchemaTypes.O:lvlSchemaTypes.GridView" resname="O:frmSchemaTypes.O:grdSchemaTypes.O:lvlSchemaTypes.GridView">
+        <source>tvSchemaTypes</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TcxGridLevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.Left" resname="O:frmSchemaTypes.O:btnClose.Left">
+        <source>194</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.Top" resname="O:frmSchemaTypes.O:btnClose.Top">
+        <source>257</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.Width" resname="O:frmSchemaTypes.O:btnClose.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.Height" resname="O:frmSchemaTypes.O:btnClose.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.Caption" resname="O:frmSchemaTypes.O:btnClose.Caption">
+        <source>'Close'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.ModalResult" resname="O:frmSchemaTypes.O:btnClose.ModalResult">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.TabOrder" resname="O:frmSchemaTypes.O:btnClose.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.LookAndFeel.Kind" resname="O:frmSchemaTypes.O:btnClose.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSchemaTypes.O:btnClose.LookAndFeel.NativeStyle" resname="O:frmSchemaTypes.O:btnClose.LookAndFeel.NativeStyle">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

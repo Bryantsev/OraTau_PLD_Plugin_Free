@@ -1,0 +1,54 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{f82104de-0198-4e8d-80a0-b5b4b89bc083}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="..\..\OraTau\source\OraTau.dproj" />
+    <Projects Include="C:\Program Files\PLSQL Developer\PlugInDoc\Delphi\Demo2\Demo2.dproj" />
+    <Projects Include="OraTau.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="OraTau">
+    <MSBuild Projects="OraTau.dproj" Targets="" />
+  </Target>
+  <Target Name="OraTau:Clean">
+    <MSBuild Projects="OraTau.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="OraTau:Make">
+    <MSBuild Projects="OraTau.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Demo2">
+    <MSBuild Projects="C:\Program Files\PLSQL Developer\PlugInDoc\Delphi\Demo2\Demo2.dproj" Targets="" />
+  </Target>
+  <Target Name="Demo2:Clean">
+    <MSBuild Projects="C:\Program Files\PLSQL Developer\PlugInDoc\Delphi\Demo2\Demo2.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Demo2:Make">
+    <MSBuild Projects="C:\Program Files\PLSQL Developer\PlugInDoc\Delphi\Demo2\Demo2.dproj" Targets="Make" />
+  </Target>
+  <Target Name="OraTau">
+    <MSBuild Projects="..\..\OraTau\source\OraTau.dproj" Targets="" />
+  </Target>
+  <Target Name="OraTau:Clean">
+    <MSBuild Projects="..\..\OraTau\source\OraTau.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="OraTau:Make">
+    <MSBuild Projects="..\..\OraTau\source\OraTau.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="OraTau;Demo2;OraTau" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="OraTau:Clean;Demo2:Clean;OraTau:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="OraTau:Make;Demo2:Make;OraTau:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

@@ -1,0 +1,300 @@
+object frmSchemaAE: TfrmSchemaAE
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'User add/edit'
+  ClientHeight = 216
+  ClientWidth = 320
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Icon.Data = {
+    0000010001001010000101000000680500001600000028000000100000002000
+    0000010008000000000000010000000000000000000000010000000000000000
+    0000FFFFFF0090A8B00090A0B00090A0A0008098A0008090A00080889000A0B8
+    A000B0C0A00080E0F00070D8F00060D0F00060B0D00090D0A0004058700050C8
+    F00040C0F00030B8F00070A8800060C08000D0B8A000C0B0A0005060700020B0
+    E00020A0D0006098700050B87000E0E8F00080D0E0004060700030B0E0002098
+    D0002088B000205070005088600050B06000D0B0A000B0B8C00060C0E0001028
+    300010304000102030004078400050A8600060788000E0E0E000FFFFF000C0C8
+    D00030A8D00020384000B0A0A0006048300040805000FFF8F000C0C8C000F0E0
+    D000F0D0C000FFF0E000F0E8E000F0C8B000C0A8A000B0A8A000B0A09000B098
+    9000E0C0A000E0B8A000E0B09000C0A89000E0A89000C0A09000000080000080
+    000000808000800000008000800080800000C0C0C000808080000000FF0000FF
+    000000FFFF00FF000000FF00FF00FFFF000009090900121212001F1F1F002C2C
+    2C003939390045454500525252005F5F5F006C6C6C0078787800858585009292
+    92009F9F9F00ABABAB00B8B8B800C5C5C500D2D2D200DEDEDE00EBEBEB00F8F8
+    F800F0FBFF00A4A0A000C0DCC000F0CAA60000003E0000005D0000007C000000
+    9B000000BA000000D9000000F0002424FF004848FF006C6CFF009090FF00B4B4
+    FF0000143E00001E5D0000287C0000329B00003CBA000046D9000055F000246D
+    FF004885FF006C9DFF0090B5FF00B4CDFF00002A3E00003F5D0000547C000069
+    9B00007EBA000093D90000AAF00024B6FF0048C2FF006CCEFF0090DAFF00B4E6
+    FF00003E3E00005D5D00007C7C00009B9B0000BABA0000D9D90000F0F00024FF
+    FF0048FFFF006CFFFF0090FFFF00B4FFFF00003E2A00005D3F00007C5400009B
+    690000BA7E0000D9930000F0AA0024FFB60048FFC2006CFFCE0090FFDA00B4FF
+    E600003E1400005D1E00007C2800009B320000BA3C0000D9460000F0550024FF
+    6D0048FF85006CFF9D0090FFB500B4FFCD00003E0000005D0000007C0000009B
+    000000BA000000D9000000F0000024FF240048FF48006CFF6C0090FF9000B4FF
+    B400143E00001E5D0000287C0000329B00003CBA000046D9000055F000006DFF
+    240085FF48009DFF6C00B5FF9000CDFFB4002A3E00003F5D0000547C0000699B
+    00007EBA000093D90000AAF00000B6FF2400C2FF4800CEFF6C00DAFF9000E6FF
+    B4003E3E00005D5D00007C7C00009B9B0000BABA0000D9D90000F0F00000FFFF
+    2400FFFF4800FFFF6C00FFFF9000FFFFB4003E2A00005D3F00007C5400009B69
+    0000BA7E0000D9930000F0AA0000FFB62400FFC24800FFCE6C00FFDA9000FFE6
+    B4003E1400005D1E00007C2800009B320000BA3C0000D9460000F0550000FF6D
+    2400FF854800FF9D6C00FFB59000FFCDB4003E0000005D0000007C0000000000
+    00000000000056000000000000004434343434346A010D32343400000000442F
+    3A3B38396A021D0D223400000000162F16333B3F3F020A0D0D2200000000162F
+    2F2F3A3B3839020A0D0D22000000162F3E332F3F3F3F3F020A0D0D220000162F
+    2F2F2F2F3A3B3839020A1D5F7A00162F2F2F2F2F2F371E383903150D06221601
+    1C2D2E2F301731323334068276061501021D1726172717122829280606241501
+    1C020A171D170C1E1F192122232415151516020A170A0F0C101118191A1B0000
+    000000020A0F0A0B0C1011121314000000000000020A0A0A0B0C0D07090E0000
+    000000000002020405050707080900000000000000000000000000000000FC7F
+    FFFF000FFFFF000FFFFF000FFFFF0007FFFF0003FFFF0001FFFF0000FFFF0000
+    FFFF0000FFFF0000FFFF0000FFFFF800FFFFFC00FFFFFE00FFFFFFFFFFFF}
+  OldCreateOrder = False
+  Position = poScreenCenter
+  ShowHint = True
+  OnClose = FormClose
+  DesignSize = (
+    320
+    216)
+  PixelsPerInch = 96
+  TextHeight = 13
+  object edtUserName: TcxDBTextEdit
+    Left = 93
+    Top = 62
+    DataBinding.DataField = 'UserName'
+    DataBinding.DataSource = dmData.dsSchema
+    Properties.OnEditValueChanged = EditValueChanged
+    TabOrder = 6
+    Width = 210
+  end
+  object edtPassword: TcxDBTextEdit
+    Left = 93
+    Top = 89
+    DataBinding.DataField = 'Password'
+    DataBinding.DataSource = dmData.dsSchema
+    Properties.EchoMode = eemPassword
+    Properties.OnEditValueChanged = EditValueChanged
+    TabOrder = 9
+    Width = 156
+  end
+  object chkShowPassword: TcxCheckBox
+    Left = 253
+    Top = 89
+    TabStop = False
+    Caption = 'show'
+    Properties.OnEditValueChanged = chkShowPasswordPropertiesEditValueChanged
+    TabOrder = 7
+    Width = 50
+  end
+  object lcbType: TcxDBLookupComboBox
+    Left = 93
+    Top = 116
+    AutoSize = False
+    DataBinding.DataField = 'IDType'
+    DataBinding.DataSource = dmData.dsSchema
+    Properties.DropDownListStyle = lsFixedList
+    Properties.DropDownSizeable = True
+    Properties.ImmediatePost = True
+    Properties.KeyFieldNames = 'ID'
+    Properties.ListColumns = <
+      item
+        HeaderAlignment = taCenter
+        SortOrder = soAscending
+        Width = 200
+        FieldName = 'Name'
+      end>
+    Properties.ListOptions.AnsiSort = True
+    Properties.ListOptions.CaseInsensitive = True
+    Properties.ListOptions.FocusRowOnMouseMove = False
+    Properties.ListSource = dmData.dsSchemaType
+    Properties.OnEditValueChanged = EditValueChanged
+    TabOrder = 11
+    Height = 21
+    Width = 182
+  end
+  object lcbGroup: TcxDBLookupComboBox
+    Left = 93
+    Top = 8
+    AutoSize = False
+    DataBinding.DataField = 'IDGroup'
+    DataBinding.DataSource = dmData.dsSchema
+    Properties.DropDownListStyle = lsFixedList
+    Properties.DropDownSizeable = True
+    Properties.KeyFieldNames = 'ID'
+    Properties.ListColumns = <
+      item
+        HeaderAlignment = taCenter
+        SortOrder = soAscending
+        Width = 200
+        FieldName = 'Name'
+      end>
+    Properties.ListOptions.AnsiSort = True
+    Properties.ListOptions.CaseInsensitive = True
+    Properties.ListOptions.FocusRowOnMouseMove = False
+    Properties.ListSource = dmData.dsSchemaGroup
+    Properties.OnEditValueChanged = EditValueChanged
+    TabOrder = 1
+    Height = 21
+    Width = 182
+  end
+  object btnSave: TcxButton
+    Left = 137
+    Top = 179
+    Width = 75
+    Height = 25
+    Anchors = [akRight, akBottom]
+    Caption = 'Save'
+    Enabled = False
+    ModalResult = 1
+    TabOrder = 14
+    OnClick = btnSaveClick
+    Glyph.Data = {
+      36030000424D3603000000000000360000002800000010000000100000000100
+      1800000000000003000000000000000000000000000000000000000000000000
+      0000000000000000000000000000000000000000000000000000000000000000
+      00000000000000000000000000412023C06860B05850A05050A05050A0505090
+      4850904840904840804040803840803840703840703830000000000000D06870
+      F09090E08080B04820403020C0B8B0C0B8B0D0C0C0D0C8C0505050A04030A040
+      30A03830703840000000000000D07070FF98A0F08880E0808070585040403090
+      7870F0E0E0F0E8E0908070A04030A04040A04030803840000000000000D07870
+      FFA0A0F09090F08880705850000000404030F0D8D0F0E0D0807860B04840B048
+      40A04040804040000000000000D07880FFA8B0FFA0A0F0909070585070585070
+      5850705850706050806860C05850B05050B04840804040000000000000E08080
+      FFB0B0FFB0B0FFA0A0F09090F08880E08080E07880D07070D06870C06060C058
+      50B05050904840000000000000E08890FFB8C0FFB8B0D06060C06050C05850C0
+      5040B05030B04830A04020A03810C06060C05850904840000000000000E09090
+      FFC0C0D06860FFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0E0D0C0E0C8C0A038
+      10C06060904850000000000000E098A0FFC0C0D07070FFFFFFFFFFFFFFFFFFFF
+      F8F0F0F0F0F0E8E0F0D8D0E0D0C0A04020D06860A05050000000000000F0A0A0
+      FFC0C0E07870FFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0B048
+      30D07070A05050000000000000F0A8A0FFC0C0E08080FFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFF8F0F0F0F0F0E8E0B05030E07880A05050000000000000F0B0B0
+      FFC0C0F08890FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0C050
+      40603030B05850000000000000F0B0B0FFC0C0FF9090FFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFF8F0C05850B05860B05860000000000000F0B8B0
+      F0B8B0F0B0B0F0B0B0F0A8B0F0A0A0E098A0E09090E09090E08890E08080D078
+      80D07870D0707000000000000000000000000000000000000000000000000000
+      0000000000000000000000000000000000000000000000000000}
+    LookAndFeel.Kind = lfStandard
+    LookAndFeel.NativeStyle = True
+  end
+  object btnCancel: TcxButton
+    Left = 237
+    Top = 179
+    Width = 75
+    Height = 25
+    Anchors = [akRight, akBottom]
+    Cancel = True
+    Caption = 'Cancel'
+    ModalResult = 2
+    TabOrder = 15
+    OnClick = btnCancelClick
+    LookAndFeel.Kind = lfStandard
+    LookAndFeel.NativeStyle = True
+  end
+  object lblGroup: TcxLabel
+    Left = 50
+    Top = 8
+    Caption = 'Group:'
+    Properties.Alignment.Horz = taRightJustify
+    AnchorX = 87
+  end
+  object lblDB: TcxLabel
+    Left = 26
+    Top = 35
+    Caption = 'Database:'
+    ParentFont = False
+    Style.Font.Charset = DEFAULT_CHARSET
+    Style.Font.Color = clWindowText
+    Style.Font.Height = -11
+    Style.Font.Name = 'Tahoma'
+    Style.Font.Style = [fsBold]
+    Style.IsFontAssigned = True
+    Properties.Alignment.Horz = taRightJustify
+    AnchorX = 87
+  end
+  object lblUserName: TcxLabel
+    Left = 22
+    Top = 62
+    Caption = 'UserName:'
+    ParentFont = False
+    Style.Font.Charset = DEFAULT_CHARSET
+    Style.Font.Color = clWindowText
+    Style.Font.Height = -11
+    Style.Font.Name = 'Tahoma'
+    Style.Font.Style = [fsBold]
+    Style.IsFontAssigned = True
+    Properties.Alignment.Horz = taRightJustify
+    AnchorX = 87
+  end
+  object lblPassword: TcxLabel
+    Left = 33
+    Top = 89
+    Caption = 'Password:'
+    ParentFont = False
+    Style.Font.Charset = DEFAULT_CHARSET
+    Style.Font.Color = clWindowText
+    Style.Font.Height = -11
+    Style.Font.Name = 'Tahoma'
+    Style.Font.Style = []
+    Style.IsFontAssigned = True
+    Properties.Alignment.Horz = taRightJustify
+    AnchorX = 87
+  end
+  object lblType: TcxLabel
+    Left = 55
+    Top = 118
+    Caption = 'Type:'
+    Properties.Alignment.Horz = taRightJustify
+    AnchorX = 87
+  end
+  object edtDB: TcxDBTextEdit
+    Left = 93
+    Top = 35
+    DataBinding.DataField = 'DB'
+    DataBinding.DataSource = dmData.dsSchema
+    Properties.CharCase = ecUpperCase
+    Properties.OnEditValueChanged = EditValueChanged
+    TabOrder = 4
+    Width = 210
+  end
+  object chkVisible: TcxDBCheckBox
+    Left = 93
+    Top = 143
+    Caption = 'visible'
+    DataBinding.DataField = 'Visible'
+    DataBinding.DataSource = dmData.dsSchema
+    Properties.NullStyle = nssUnchecked
+    Properties.OnEditValueChanged = EditValueChanged
+    TabOrder = 13
+    Width = 63
+  end
+  object btnEditGroups: TBitBtn
+    Left = 281
+    Top = 9
+    Width = 22
+    Height = 20
+    Anchors = [akTop, akRight]
+    Caption = '...'
+    TabOrder = 2
+    OnClick = btnEditGroupsClick
+  end
+  object btnEditTypes: TBitBtn
+    Left = 281
+    Top = 117
+    Width = 22
+    Height = 20
+    Anchors = [akTop, akRight]
+    Caption = '...'
+    TabOrder = 12
+    OnClick = btnEditTypesClick
+  end
+end

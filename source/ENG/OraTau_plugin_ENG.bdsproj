@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{957749A1-F254-497A-B761-9D136FE02B26}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">D:\projects\delphi\OraTau pl_plugin\source\ENG\OraTau_plugin.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">1049</Options>
+      <Options Name="TargetName">..\OraTau_plugin.ENG</Options>
+    </Options>
+    <VersionInfo>
+      <VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+      <VersionInfo Name="AutoIncBuild">True</VersionInfo>
+      <VersionInfo Name="MajorVer">1</VersionInfo>
+      <VersionInfo Name="MinorVer">2</VersionInfo>
+      <VersionInfo Name="Release">0</VersionInfo>
+      <VersionInfo Name="Build">75</VersionInfo>
+      <VersionInfo Name="Debug">False</VersionInfo>
+      <VersionInfo Name="PreRelease">False</VersionInfo>
+      <VersionInfo Name="Special">False</VersionInfo>
+      <VersionInfo Name="Private">False</VersionInfo>
+      <VersionInfo Name="DLL">True</VersionInfo>
+      <VersionInfo Name="Locale">2057</VersionInfo>
+      <VersionInfo Name="CodePage">1252</VersionInfo>
+    </VersionInfo>
+    <VersionInfoKeys>
+      <VersionInfoKeys Name="CompanyName"></VersionInfoKeys>
+      <VersionInfoKeys Name="FileDescription"></VersionInfoKeys>
+      <VersionInfoKeys Name="FileVersion">1.2.0.75</VersionInfoKeys>
+      <VersionInfoKeys Name="InternalName"></VersionInfoKeys>
+      <VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys>
+      <VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+      <VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys>
+      <VersionInfoKeys Name="ProductName"></VersionInfoKeys>
+      <VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+      <VersionInfoKeys Name="Comments"></VersionInfoKeys>
+    </VersionInfoKeys>
+    <FileList>
+      <File FileName="vcl\DBLOGDLG.dfm" ContainerId="W32Form" ModuleName="DBLOGDLG.dfm"/>
+      <File FileName="vcl\DBPWDLG.dfm" ContainerId="W32Form" ModuleName="DBPWDLG.dfm"/>
+      <File FileName="udmData.dfm" ContainerId="W32Form" ModuleName="udmData.dfm"/>
+      <File FileName="uframeScript.dfm" ContainerId="W32Form" ModuleName="uframeScript.dfm"/>
+      <File FileName="ufrmAbout.dfm" ContainerId="W32Form" ModuleName="ufrmAbout.dfm"/>
+      <File FileName="ufrmLogonDialog.dfm" ContainerId="W32Form" ModuleName="ufrmLogonDialog.dfm"/>
+      <File FileName="ufrmMain.dfm" ContainerId="W32Form" ModuleName="ufrmMain.dfm"/>
+      <File FileName="ufrmQuickQuery.dfm" ContainerId="W32Form" ModuleName="ufrmQuickQuery.dfm"/>
+      <File FileName="ufrmSaveNewFile.dfm" ContainerId="W32Form" ModuleName="ufrmSaveNewFile.dfm"/>
+      <File FileName="ufrmSchemaAE.dfm" ContainerId="W32Form" ModuleName="ufrmSchemaAE.dfm"/>
+      <File FileName="ufrmSchemaGroups.dfm" ContainerId="W32Form" ModuleName="ufrmSchemaGroups.dfm"/>
+      <File FileName="ufrmSchemaImport.dfm" ContainerId="W32Form" ModuleName="ufrmSchemaImport.dfm"/>
+      <File FileName="ufrmSchemaTypes.dfm" ContainerId="W32Form" ModuleName="ufrmSchemaTypes.dfm"/>
+      <File FileName="ufrmSettings.dfm" ContainerId="W32Form" ModuleName="ufrmSettings.dfm"/>
+      <File FileName="ufrmWindows.dfm" ContainerId="W32Form" ModuleName="ufrmWindows.dfm"/>
+      <File FileName="OraTau_plugin_DRC.rc" ContainerId="W32RC" ModuleName="OraTau_plugin_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\projects\delphi\OraTau pl_plugin\source\ufrmSaveNewFile.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\projects\delphi\OraTau pl_plugin\source\ufrmSaveNewFile.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40287.0014351852</prop>
+        <prop prop-type="OrigDateTime">40286.1546296296</prop>
+        <prop prop-type="XlatDateTime">40286.1546296296</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">242</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmSaveNewFile.Left" resname="O:frmSaveNewFile.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Top" resname="O:frmSaveNewFile.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.BorderIcons" resname="O:frmSaveNewFile.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Caption" resname="O:frmSaveNewFile.Caption">
+        <source>'Save As...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.ClientHeight" resname="O:frmSaveNewFile.ClientHeight">
+        <source>243</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.ClientWidth" resname="O:frmSaveNewFile.ClientWidth">
+        <source>632</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Color" resname="O:frmSaveNewFile.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Constraints.MaxHeight" resname="O:frmSaveNewFile.Constraints.MaxHeight">
+        <source>270</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Constraints.MinHeight" resname="O:frmSaveNewFile.Constraints.MinHeight">
+        <source>270</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Font.Charset" resname="O:frmSaveNewFile.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Font.Color" resname="O:frmSaveNewFile.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Font.Height" resname="O:frmSaveNewFile.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Font.Name" resname="O:frmSaveNewFile.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Font.Style" resname="O:frmSaveNewFile.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Icon.Data" resname="O:frmSaveNewFile.Icon.Data">
+        <source>00000100010010100000010000006804000016000000280000001000000020000000010020000000000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000D0687050C06860FFB05850FFA05050FFA05050FFA05050FF904850FF904840FF904840FF804040FF803840FF803840FF703840FF703830FF0000000000000000D06870FFF09090FFE08080FFB04820FF403020FFC0B8B0FFC0B8B0FFD0C0C0FFD0C8C0FF505050FFA04030FFA04030FFA03830FF703840FF0000000000000000D07070FFFF98A0FFF08880FFE08080FF705850FF404030FF907870FFF0E0E0FFF0E8E0FF908070FFA04030FFA04040FFA04030FF803840FF0000000000000000D07870FFFFA0A0FFF09090FFF08880FF705850FF000000FF404030FFF0D8D0FFF0E0D0FF807860FFB04840FFB04840FFA04040FF804040FF0000000000000000D07880FFFFA8B0FFFFA0A0FFF09090FF705850FF705850FF705850FF705850FF706050FF806860FFC05850FFB05050FFB04840FF804040FF0000000000000000E08080FFFFB0B0FFFFB0B0FFFFA0A0FFF09090FFF08880FFE08080FFE07880FFD07070FFD06870FFC06060FFC05850FFB05050FF904840FF0000000000000000E08890FFFFB8C0FFFFB8B0FFD06060FFC06050FFC05850FFC05040FFB05030FFB04830FFA04020FFA03810FFC06060FFC05850FF904840FF0000000000000000E09090FFFFC0C0FFD06860FFFFFFFFFFFFFFFFFFFFF8F0FFF0F0F0FFF0E8E0FFF0D8D0FFE0D0C0FFE0C8C0FFA03810FFC06060FF904850FF0000000000000000E098A0FFFFC0C0FFD07070FFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0FFF0F0F0FFF0E8E0FFF0D8D0FFE0D0C0FFA04020FFD06860FFA05050FF0000000000000000F0A0A0FFFFC0C0FFE07870FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0FFF0F0F0FFF0E8E0FFF0D8D0FFB04830FFD07070FFA05050FF0000000000000000F0A8A0FFFFC0C0FFE08080FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0FFF0F0F0FFF0E8E0FFB05030FFE07880FFA05050FF0000000000000000F0B0B0FFFFC0C0FFF08890FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0FFF0F0F0FFC05040FF603030FFB05850FF0000000000000000F0B0B0FFFFC0C0FFFF9090FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0FFC05850FFB05860FFB05860FF0000000000000000F0B8B0FFF0B8B0FFF0B0B0FFF0B0B0FFF0A8B0FFF0A0A0FFE098A0FFE09090FFE09090FFE08890FFE08080FFD07880FFD07870FFD07070FF0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFF8001FFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.OldCreateOrder" resname="O:frmSaveNewFile.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.Position" resname="O:frmSaveNewFile.Position">
+        <source>poScreenCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.OnShow" resname="O:frmSaveNewFile.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.DesignSize[0]" resname="O:frmSaveNewFile.DesignSize[0]">
+        <source>632</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.DesignSize[1]" resname="O:frmSaveNewFile.DesignSize[1]">
+        <source>243</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.PixelsPerInch" resname="O:frmSaveNewFile.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.TextHeight" resname="O:frmSaveNewFile.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TfrmSaveNewFile</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Left" resname="O:frmSaveNewFile.O:btnSaveAs.Left">
+        <source>408</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Top" resname="O:frmSaveNewFile.O:btnSaveAs.Top">
+        <source>188</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Width" resname="O:frmSaveNewFile.O:btnSaveAs.Width">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Height" resname="O:frmSaveNewFile.O:btnSaveAs.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Anchors" resname="O:frmSaveNewFile.O:btnSaveAs.Anchors">
+        <source>[akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Caption" resname="O:frmSaveNewFile.O:btnSaveAs.Caption">
+        <source>'Save As...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.TabOrder" resname="O:frmSaveNewFile.O:btnSaveAs.TabOrder">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.OnClick" resname="O:frmSaveNewFile.O:btnSaveAs.OnClick">
+        <source>btnSaveAsClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.Glyph.Data" resname="O:frmSaveNewFile.O:btnSaveAs.Glyph.Data">
+        <source>36030000424D36030000000000003600000028000000100000001000000001001800000000000003000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000412023C06860B05850A05050A05050A05050904850904840904840804040803840803840703840703830000000000000D06870F09090E08080B04820403020C0B8B0C0B8B0D0C0C0D0C8C0505050A04030A04030A03830703840000000000000D07070FF98A0F08880E08080705850404030907870F0E0E0F0E8E0908070A04030A04040A04030803840000000000000D07870FFA0A0F09090F08880705850000000404030F0D8D0F0E0D0807860B04840B04840A04040804040000000000000D07880FFA8B0FFA0A0F09090705850705850705850705850706050806860C05850B05050B04840804040000000000000E08080FFB0B0FFB0B0FFA0A0F09090F08880E08080E07880D07070D06870C06060C05850B05050904840000000000000E08890FFB8C0FFB8B0D06060C06050C05850C05040B05030B04830A04020A03810C06060C05850904840000000000000E09090FFC0C0D06860FFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0E0D0C0E0C8C0A03810C06060904850000000000000E098A0FFC0C0D07070FFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0E0D0C0A04020D06860A05050000000000000F0A0A0FFC0C0E07870FFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0B04830D07070A05050000000000000F0A8A0FFC0C0E08080FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0B05030E07880A05050000000000000F0B0B0FFC0C0F08890FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0C05040603030B05850000000000000F0B0B0FFC0C0FF9090FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0C05850B05860B05860000000000000F0B8B0F0B8B0F0B0B0F0B0B0F0A8B0F0A0A0E098A0E09090E09090E08890E08080D07880D07870D07070000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnSaveAs.LookAndFeel.Kind" resname="O:frmSaveNewFile.O:btnSaveAs.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Left" resname="O:frmSaveNewFile.O:btnDoNothing.Left">
+        <source>520</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Top" resname="O:frmSaveNewFile.O:btnDoNothing.Top">
+        <source>188</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Width" resname="O:frmSaveNewFile.O:btnDoNothing.Width">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Height" resname="O:frmSaveNewFile.O:btnDoNothing.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Anchors" resname="O:frmSaveNewFile.O:btnDoNothing.Anchors">
+        <source>[akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Cancel" resname="O:frmSaveNewFile.O:btnDoNothing.Cancel">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.Caption" resname="O:frmSaveNewFile.O:btnDoNothing.Caption">
+        <source>'Do nothing (Esc)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.TabOrder" resname="O:frmSaveNewFile.O:btnDoNothing.TabOrder">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.OnClick" resname="O:frmSaveNewFile.O:btnDoNothing.OnClick">
+        <source>btnDoNothingClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:btnDoNothing.LookAndFeel.Kind" resname="O:frmSaveNewFile.O:btnDoNothing.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.Left" resname="O:frmSaveNewFile.O:chkSaveSeparate.Left">
+        <source>262</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.Top" resname="O:frmSaveNewFile.O:chkSaveSeparate.Top">
+        <source>130</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.Anchors" resname="O:frmSaveNewFile.O:chkSaveSeparate.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.Caption" resname="O:frmSaveNewFile.O:chkSaveSeparate.Caption">
+        <source>'save spec and body of PACKAGE/TYPE in files separate (additionally)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.State" resname="O:frmSaveNewFile.O:chkSaveSeparate.State">
+        <source>cbsChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.TabOrder" resname="O:frmSaveNewFile.O:chkSaveSeparate.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkSaveSeparate.Width" resname="O:frmSaveNewFile.O:chkSaveSeparate.Width">
+        <source>359</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Left" resname="O:frmSaveNewFile.O:rgButtonDefault.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Top" resname="O:frmSaveNewFile.O:rgButtonDefault.Top">
+        <source>132</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Caption" resname="O:frmSaveNewFile.O:rgButtonDefault.Caption">
+        <source>'Default button'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.ParentFont" resname="O:frmSaveNewFile.O:rgButtonDefault.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Properties.Columns" resname="O:frmSaveNewFile.O:rgButtonDefault.Properties.Columns">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Properties.Items" resname="O:frmSaveNewFile.O:rgButtonDefault.Properties.Items">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.BorderStyle" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.BorderStyle">
+        <source>ebsUltraFlat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Charset" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Color" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Height" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Name" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Style" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Style.IsFontAssigned" resname="O:frmSaveNewFile.O:rgButtonDefault.Style.IsFontAssigned">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.TabOrder" resname="O:frmSaveNewFile.O:rgButtonDefault.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Height" resname="O:frmSaveNewFile.O:rgButtonDefault.Height">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450081</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rgButtonDefault.Width" resname="O:frmSaveNewFile.O:rgButtonDefault.Width">
+        <source>245</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TcxRadioGroup</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.Left" resname="O:frmSaveNewFile.O:gbTempFile.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.Top" resname="O:frmSaveNewFile.O:gbTempFile.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.Caption" resname="O:frmSaveNewFile.O:gbTempFile.Caption">
+        <source>'Temporary file'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.DesignSize[0]" resname="O:frmSaveNewFile.O:gbTempFile.DesignSize[0]">
+        <source>616</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.DesignSize[1]" resname="O:frmSaveNewFile.O:gbTempFile.DesignSize[1]">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.Height" resname="O:frmSaveNewFile.O:gbTempFile.Height">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014500926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.Width" resname="O:frmSaveNewFile.O:gbTempFile.Width">
+        <source>616</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TcxGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblFormat.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:lblFormat.Left">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblFormat.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:lblFormat.Top">
+        <source>49</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblFormat.Caption" resname="O:frmSaveNewFile.O:gbTempFile.O:lblFormat.Caption">
+        <source>'Format:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblFilename.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:lblFilename.Left">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblFilename.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:lblFilename.Top">
+        <source>79</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblFilename.Caption" resname="O:frmSaveNewFile.O:gbTempFile.O:lblFilename.Caption">
+        <source>'Filename:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Left">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Top">
+        <source>78</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.ParentShowHint" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Properties.Buttons" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Properties.Buttons">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Properties.OnEditValueChanged" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Properties.OnEditValueChanged">
+        <source>edtTempFilenamePropertiesEditValueChanged</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.ShowHint" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilename.Width">
+        <source>375</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Left">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.ParentShowHint" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.PopupMenu" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.PopupMenu">
+        <source>pmTemplates</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Properties.Buttons[0].Default" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Properties.Buttons[0].Default">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">C:TcxButtonEdit</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Properties.OnButtonClick" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Properties.OnButtonClick">
+        <source>edtTempFilenameFormatPropertiesButtonClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Properties.OnEditValueChanged" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Properties.OnEditValueChanged">
+        <source>edtTempFilenameFormatPropertiesEditValueChanged</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.ShowHint" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Text" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Text">
+        <source>'tmp_[ObjectType]_[SchemaType]_[ObjectName]_[UID]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFilenameFormat.Width">
+        <source>432</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Left">
+        <source>512</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Top">
+        <source>46</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Width">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Height" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Caption" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.Caption">
+        <source>'Default'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.OnClick" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.OnClick">
+        <source>btnFormatDefaultClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.LookAndFeel.Kind" resname="O:frmSaveNewFile.O:gbTempFile.O:btnFormatDefault.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Left">
+        <source>512</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Top">
+        <source>76</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Width">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Height" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Caption" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Caption">
+        <source>'Save tmp-file'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.TabOrder">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.OnClick" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.OnClick">
+        <source>btnSave2TempClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Glyph.Data" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.Glyph.Data">
+        <source>36030000424D36030000000000003600000028000000100000001000000001001800000000000003000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000412023C06860B05850A05050A05050A05050904850904840904840804040803840803840703840703830000000000000D06870F09090E08080B04820403020C0B8B0C0B8B0D0C0C0D0C8C0505050A04030A04030A03830703840000000000000D07070FF98A0F08880E08080705850404030907870F0E0E0F0E8E0908070A04030A04040A04030803840000000000000D07870FFA0A0F09090F08880705850000000404030F0D8D0F0E0D0807860B04840B04840A04040804040000000000000D07880FFA8B0FFA0A0F09090705850705850705850705850706050806860C05850B05050B04840804040000000000000E08080FFB0B0FFB0B0FFA0A0F09090F08880E08080E07880D07070D06870C06060C05850B05050904840000000000000E08890FFB8C0FFB8B0D06060C06050C05850C05040B05030B04830A04020A03810C06060C05850904840000000000000E09090FFC0C0D06860FFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0E0D0C0E0C8C0A03810C06060904850000000000000E098A0FFC0C0D07070FFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0E0D0C0A04020D06860A05050000000000000F0A0A0FFC0C0E07870FFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0F0D8D0B04830D07070A05050000000000000F0A8A0FFC0C0E08080FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0F0E8E0B05030E07880A05050000000000000F0B0B0FFC0C0F08890FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0F0F0F0C05040603030B05850000000000000F0B0B0FFC0C0FF9090FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F0C05850B05860B05860000000000000F0B8B0F0B8B0F0B0B0F0B0B0F0A8B0F0A0A0E098A0E09090E09090E08890E08080D07880D07870D07070000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.LookAndFeel.Kind" resname="O:frmSaveNewFile.O:gbTempFile.O:btnSave2Temp.LookAndFeel.Kind">
+        <source>lfStandard</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TcxButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Left">
+        <source>446</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Top">
+        <source>82</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.AutoSize" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Caption" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Caption">
+        <source>'.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Style.TextStyle" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Style.TextStyle">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Height" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:lblPoint.Width">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Left">
+        <source>453</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Top">
+        <source>78</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempFileExt.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblTempDirectory.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:lblTempDirectory.Left">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblTempDirectory.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:lblTempDirectory.Top">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:lblTempDirectory.Caption" resname="O:frmSaveNewFile.O:gbTempFile.O:lblTempDirectory.Caption">
+        <source>'Folder:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.001450162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Left" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Left">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Top" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Top">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Anchors" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.ParentShowHint" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.PopupMenu" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.PopupMenu">
+        <source>pmTemplates</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Properties.Buttons" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Properties.Buttons">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Properties.ReadOnly" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Properties.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Properties.OnEditValueChanged" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Properties.OnEditValueChanged">
+        <source>edtTempDirectoryPropertiesEditValueChanged</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.ShowHint" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Style.Color" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Style.Color">
+        <source>clInactiveCaptionText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.TabOrder" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Width" resname="O:frmSaveNewFile.O:gbTempFile.O:edtTempDirectory.Width">
+        <source>432</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.Left" resname="O:frmSaveNewFile.O:rbSave2Temp.Left">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.Top" resname="O:frmSaveNewFile.O:rbSave2Temp.Top">
+        <source>148</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.Width" resname="O:frmSaveNewFile.O:rbSave2Temp.Width">
+        <source>67</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.Height" resname="O:frmSaveNewFile.O:rbSave2Temp.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.Caption" resname="O:frmSaveNewFile.O:rbSave2Temp.Caption">
+        <source>'Save tmp'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.Checked" resname="O:frmSaveNewFile.O:rbSave2Temp.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.TabOrder" resname="O:frmSaveNewFile.O:rbSave2Temp.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.TabStop" resname="O:frmSaveNewFile.O:rbSave2Temp.TabStop">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSave2Temp.OnClick" resname="O:frmSaveNewFile.O:rbSave2Temp.OnClick">
+        <source>rbSetDefaultButtonClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.Left" resname="O:frmSaveNewFile.O:rbSaveAs.Left">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.Top" resname="O:frmSaveNewFile.O:rbSaveAs.Top">
+        <source>148</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.Width" resname="O:frmSaveNewFile.O:rbSaveAs.Width">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.Height" resname="O:frmSaveNewFile.O:rbSaveAs.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.Caption" resname="O:frmSaveNewFile.O:rbSaveAs.Caption">
+        <source>'Save As...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.TabOrder" resname="O:frmSaveNewFile.O:rbSaveAs.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbSaveAs.OnClick" resname="O:frmSaveNewFile.O:rbSaveAs.OnClick">
+        <source>rbSetDefaultButtonClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.Left" resname="O:frmSaveNewFile.O:rbDoNothing.Left">
+        <source>171</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.Top" resname="O:frmSaveNewFile.O:rbDoNothing.Top">
+        <source>148</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.Width" resname="O:frmSaveNewFile.O:rbDoNothing.Width">
+        <source>72</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.Height" resname="O:frmSaveNewFile.O:rbDoNothing.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.Caption" resname="O:frmSaveNewFile.O:rbDoNothing.Caption">
+        <source>'Do nothing'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014501968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.TabOrder" resname="O:frmSaveNewFile.O:rbDoNothing.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:rbDoNothing.OnClick" resname="O:frmSaveNewFile.O:rbDoNothing.OnClick">
+        <source>rbSetDefaultButtonClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TcxRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Left" resname="O:frmSaveNewFile.O:sbSaveNew.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Top" resname="O:frmSaveNewFile.O:sbSaveNew.Top">
+        <source>223</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Width" resname="O:frmSaveNewFile.O:sbSaveNew.Width">
+        <source>632</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Height" resname="O:frmSaveNewFile.O:sbSaveNew.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Panels" resname="O:frmSaveNewFile.O:sbSaveNew.Panels">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Font.Charset" resname="O:frmSaveNewFile.O:sbSaveNew.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Font.Color" resname="O:frmSaveNewFile.O:sbSaveNew.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Font.Height" resname="O:frmSaveNewFile.O:sbSaveNew.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Font.Name" resname="O:frmSaveNewFile.O:sbSaveNew.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:sbSaveNew.Font.Style" resname="O:frmSaveNewFile.O:sbSaveNew.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TdxStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkDontShowThisDialog.Left" resname="O:frmSaveNewFile.O:chkDontShowThisDialog.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkDontShowThisDialog.Top" resname="O:frmSaveNewFile.O:chkDontShowThisDialog.Top">
+        <source>196</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkDontShowThisDialog.Caption" resname="O:frmSaveNewFile.O:chkDontShowThisDialog.Caption">
+        <source>'don'#39't show this dialog again'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkDontShowThisDialog.Properties.OnEditValueChanged" resname="O:frmSaveNewFile.O:chkDontShowThisDialog.Properties.OnEditValueChanged">
+        <source>chkDontShowThisDialogPropertiesEditValueChanged</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkDontShowThisDialog.TabOrder" resname="O:frmSaveNewFile.O:chkDontShowThisDialog.TabOrder">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:chkDontShowThisDialog.Width" resname="O:frmSaveNewFile.O:chkDontShowThisDialog.Width">
+        <source>161</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TcxCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel1.Left" resname="O:frmSaveNewFile.O:cxLabel1.Left">
+        <source>262</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel1.Top" resname="O:frmSaveNewFile.O:cxLabel1.Top">
+        <source>154</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel1.Caption" resname="O:frmSaveNewFile.O:cxLabel1.Caption">
+        <source>'Filename:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.Left" resname="O:frmSaveNewFile.O:edtFileName.Left">
+        <source>318</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.Top" resname="O:frmSaveNewFile.O:edtFileName.Top">
+        <source>153</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.Anchors" resname="O:frmSaveNewFile.O:edtFileName.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.ParentShowHint" resname="O:frmSaveNewFile.O:edtFileName.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.Properties.Buttons" resname="O:frmSaveNewFile.O:edtFileName.Properties.Buttons">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.ShowHint" resname="O:frmSaveNewFile.O:edtFileName.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.TabOrder" resname="O:frmSaveNewFile.O:edtFileName.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileName.Width" resname="O:frmSaveNewFile.O:edtFileName.Width">
+        <source>250</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TcxButtonEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileExt.Left" resname="O:frmSaveNewFile.O:edtFileExt.Left">
+        <source>577</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileExt.Top" resname="O:frmSaveNewFile.O:edtFileExt.Top">
+        <source>153</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileExt.Anchors" resname="O:frmSaveNewFile.O:edtFileExt.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileExt.TabOrder" resname="O:frmSaveNewFile.O:edtFileExt.TabOrder">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:edtFileExt.Width" resname="O:frmSaveNewFile.O:edtFileExt.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TcxTextEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Left" resname="O:frmSaveNewFile.O:cxLabel2.Left">
+        <source>570</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Top" resname="O:frmSaveNewFile.O:cxLabel2.Top">
+        <source>157</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Anchors" resname="O:frmSaveNewFile.O:cxLabel2.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.AutoSize" resname="O:frmSaveNewFile.O:cxLabel2.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Caption" resname="O:frmSaveNewFile.O:cxLabel2.Caption">
+        <source>'.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Style.TextStyle" resname="O:frmSaveNewFile.O:cxLabel2.Style.TextStyle">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Height" resname="O:frmSaveNewFile.O:cxLabel2.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:cxLabel2.Width" resname="O:frmSaveNewFile.O:cxLabel2.Width">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TcxLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.AutoHotkeys" resname="O:frmSaveNewFile.O:pmTemplates.AutoHotkeys">
+        <source>maManual</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.Left" resname="O:frmSaveNewFile.O:pmTemplates.Left">
+        <source>436</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.Top" resname="O:frmSaveNewFile.O:pmTemplates.Top">
+        <source>52</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiDatabase.Caption" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiDatabase.Caption">
+        <source>'[Database]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiDatabase.OnClick" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiDatabase.OnClick">
+        <source>pmiItemClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiSchemaType.Caption" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiSchemaType.Caption">
+        <source>'[SchemaType]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiSchemaType.OnClick" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiSchemaType.OnClick">
+        <source>pmiItemClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectType.Caption" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectType.Caption">
+        <source>'[ObjectType]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectType.OnClick" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectType.OnClick">
+        <source>pmiItemClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectOwner.Caption" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectOwner.Caption">
+        <source>'[ObjectOwner]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectOwner.OnClick" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectOwner.OnClick">
+        <source>pmiItemClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectName.Caption" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectName.Caption">
+        <source>'[ObjectName]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectName.OnClick" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiObjectName.OnClick">
+        <source>pmiItemClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiUID.Caption" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiUID.Caption">
+        <source>'[UID]'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiUID.Hint" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiUID.Hint">
+        <source>'Unique ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:pmTemplates.O:pmiUID.OnClick" resname="O:frmSaveNewFile.O:pmTemplates.O:pmiUID.OnClick">
+        <source>pmiItemClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.AppStorage" resname="O:frmSaveNewFile.O:fsSaveNewFile.AppStorage">
+        <source>dmData.aifsMain</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.AppStoragePath" resname="O:frmSaveNewFile.O:fsSaveNewFile.AppStoragePath">
+        <source>'frmSaveNewFile\'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.Options" resname="O:frmSaveNewFile.O:fsSaveNewFile.Options">
+        <source>[fpSize, fpLocation]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[0]" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[0]">
+        <source>'chkSaveSeparate.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[1]" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[1]">
+        <source>'edtTempDirectory.Text'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[2]" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[2]">
+        <source>'edtTempFilenameFormat.Text'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[3]" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[3]">
+        <source>'rbDoNothing.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[4]" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[4]">
+        <source>'rbSaveAs.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[5]" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredProps.Strings[5]">
+        <source>'rbSave2Temp.Checked'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.StoredValues" resname="O:frmSaveNewFile.O:fsSaveNewFile.StoredValues">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.Left" resname="O:frmSaveNewFile.O:fsSaveNewFile.Left">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:fsSaveNewFile.Top" resname="O:frmSaveNewFile.O:fsSaveNewFile.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TJvFormStorage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:dlgSaveAs.Options" resname="O:frmSaveNewFile.O:dlgSaveAs.Options">
+        <source>[ofOverwritePrompt, ofPathMustExist, ofEnableSizing]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TSaveDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:dlgSaveAs.Left" resname="O:frmSaveNewFile.O:dlgSaveAs.Left">
+        <source>276</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TSaveDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmSaveNewFile.O:dlgSaveAs.Top" resname="O:frmSaveNewFile.O:dlgSaveAs.Top">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40287.0014502894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TSaveDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

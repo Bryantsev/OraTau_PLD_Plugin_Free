@@ -1,0 +1,44 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{7a5636e4-c529-445b-8031-f0f2e1ca63df}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="ENG\OraTau_plugin_ENG.bdsproj" />
+    <Projects Include="OraTau_plugin.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="OraTau_plugin">
+    <MSBuild Projects="OraTau_plugin.dproj" Targets="" />
+  </Target>
+  <Target Name="OraTau_plugin:Clean">
+    <MSBuild Projects="OraTau_plugin.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="OraTau_plugin:Make">
+    <MSBuild Projects="OraTau_plugin.dproj" Targets="Make" />
+  </Target>
+  <Target Name="OraTau_plugin_ENG">
+    <MSBuild Projects="ENG\OraTau_plugin_ENG.bdsproj" Targets="" />
+  </Target>
+  <Target Name="OraTau_plugin_ENG:Clean">
+    <MSBuild Projects="ENG\OraTau_plugin_ENG.bdsproj" Targets="Clean" />
+  </Target>
+  <Target Name="OraTau_plugin_ENG:Make">
+    <MSBuild Projects="ENG\OraTau_plugin_ENG.bdsproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="OraTau_plugin;OraTau_plugin_ENG" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="OraTau_plugin:Clean;OraTau_plugin_ENG:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="OraTau_plugin:Make;OraTau_plugin_ENG:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

@@ -1,0 +1,8 @@
+Requirements
+Delphi Components:
+- JVCL 3.40
+- ODAC Professional 6.50
+- Express Editors Library 6.52
+- Express Quantum Grid Suite 6.52
+- Express Bars 6.52
+- Express Page Control Suite 6.52

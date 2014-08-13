@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.01.05 00:27:58.958.dproj,C:\Users\admin\Documents\RAD Studio\Projects\Project1.dproj=D:\projects\delphi\OraTau pl_plugin\source\OraTau.dproj</Transaction>
+    <Transaction>2010.01.17 00:53:40.689.pas,D:\projects\delphi\OraTau pl_plugin\source\Unit1.pas=D:\projects\delphi\OraTau pl_plugin\source\ufrmScript.pas</Transaction>
+    <Transaction>2010.01.17 00:53:40.689.dfm,D:\projects\delphi\OraTau pl_plugin\source\Unit1.dfm=D:\projects\delphi\OraTau pl_plugin\source\ufrmScript.dfm</Transaction>
+    <Transaction>2010.01.17 01:05:46.730.pas,D:\projects\delphi\OraTau pl_plugin\source\Unit1.pas=D:\projects\delphi\OraTau pl_plugin\source\ufrmLogon.pas</Transaction>
+    <Transaction>2010.01.17 01:05:46.730.dfm,D:\projects\delphi\OraTau pl_plugin\source\Unit1.dfm=D:\projects\delphi\OraTau pl_plugin\source\ufrmLogon.dfm</Transaction>
+    <Transaction>2010.01.18 23:01:34.278.pas,D:\projects\delphi\OraTau pl_plugin\source\Unit1.pas=D:\projects\delphi\OraTau pl_plugin\source\uframeScript.pas</Transaction>
+    <Transaction>2010.01.18 23:01:34.278.dfm,D:\projects\delphi\OraTau pl_plugin\source\Unit1.dfm=D:\projects\delphi\OraTau pl_plugin\source\uframeScript.dfm</Transaction>
+    <Transaction>2010.01.19 22:02:44.792.pas,D:\projects\delphi\OraTau pl_plugin\source\ufrmScript.pas=</Transaction>
+    <Transaction>2010.01.19 22:02:44.792.dfm,D:\projects\delphi\OraTau pl_plugin\source\ufrmScript.dfm=</Transaction>
+    <Transaction>2010.01.24 22:20:13.814.pas,D:\projects\delphi\OraTau pl_plugin\source\ufrmLogon.pas=D:\projects\delphi\OraTau pl_plugin\source\ufrmLogonDialog.pas</Transaction>
+    <Transaction>2010.01.24 22:20:13.814.dfm,D:\projects\delphi\OraTau pl_plugin\source\ufrmLogon.dfm=D:\projects\delphi\OraTau pl_plugin\source\ufrmLogonDialog.dfm</Transaction>
+    <Transaction>2010.01.26 23:00:17.316.pas,D:\projects\delphi\OraTau pl_plugin\source\Unit1.pas=D:\projects\delphi\OraTau pl_plugin\source\ufrmWindows.pas</Transaction>
+    <Transaction>2010.01.26 23:00:17.316.dfm,D:\projects\delphi\OraTau pl_plugin\source\Unit1.dfm=D:\projects\delphi\OraTau pl_plugin\source\ufrmWindows.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

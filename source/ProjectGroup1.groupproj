@@ -1,0 +1,44 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{0e4db359-e6de-4775-9570-93e9ff403c32}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="OraTau_plugin.dproj" />
+    <Projects Include="\\Server001\Data\Персональные документы\tau\RAD Studio\Projects\Project1.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="OraTau_plugin">
+    <MSBuild Projects="OraTau_plugin.dproj" Targets="" />
+  </Target>
+  <Target Name="OraTau_plugin:Clean">
+    <MSBuild Projects="OraTau_plugin.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="OraTau_plugin:Make">
+    <MSBuild Projects="OraTau_plugin.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Project1">
+    <MSBuild Projects="\\Server001\Data\Персональные документы\tau\RAD Studio\Projects\Project1.dproj" Targets="" />
+  </Target>
+  <Target Name="Project1:Clean">
+    <MSBuild Projects="\\Server001\Data\Персональные документы\tau\RAD Studio\Projects\Project1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Project1:Make">
+    <MSBuild Projects="\\Server001\Data\Персональные документы\tau\RAD Studio\Projects\Project1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="OraTau_plugin;Project1" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="OraTau_plugin:Clean;Project1:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="OraTau_plugin:Make;Project1:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>
